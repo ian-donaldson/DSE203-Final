@@ -1,0 +1,284 @@
+{
+    "Amazon": {
+        "People": {
+            "Current": [
+                "Jeff Bezos",
+                "Doug Gurr",
+                "Tony Hsieh",
+                "Werner Vogels"
+            ],
+            "Former": [
+                "Rick Dalzell",
+                "Paul Davis",
+                "Brian McBride",
+                "Christopher North",
+                "Nadia Shouraboura",
+                "Ram Shriram",
+                "Tom Szkutak",
+                "Brian Valentine"
+            ]
+        },
+        "Facilities": [
+            "Doppler",
+            "Day 1",
+            "HQ2",
+            "Spheres"
+        ],
+        "Productsandservices": {
+            "Subsidiaries": [
+                "A9.com",
+                "AbeBooks",
+                "Alexa Internet",
+                "Amazon Game Studios",
+                "Amazon Lab126",
+                "Amazon Robotics",
+                "Audible",
+                "Blink Home",
+                "Book Depository",
+                "BookFinder",
+                "ComiXology",
+                "Digital Photography Review",
+                "Double Helix Games",
+                "Fresh",
+                "Goodreads",
+                "Graphiq",
+                "IMDb(Box Office Mojo,Withoutabox",
+                "PillPack",
+                "Ring",
+                "Shopbop",
+                "Souq.com",
+                "Twitch",
+                "Woot.com",
+                "Zappos"
+            ],
+            "Cloudcomputing": [
+                "Web Services(AMI,Amazon Aurora,Beanstalk,CloudFront,DynamoDB,EBS,EC2,EFS,ElastiCache,EMR,Glacier,Lambda,Lightsail,MTurk,Neptune,Product Advertising API,RDS,Redshift,Rekognition,Route 53,S3,SageMaker,SES,SNS,SimpleDB,SQS,VPC"
+            ],
+            "Services": [
+                "Amazon.com(China",
+                "Alexa",
+                "Appstore",
+                "Digital Game Store",
+                "Drive",
+                "Fire OS",
+                "Payments",
+                "Prime(Key,Prime Music,Prime Now,Prime Pantry,Prime Video",
+                "Kindle Store",
+                "Marketplace",
+                "Music",
+                "Silk",
+                "Storywriter",
+                "Wireless"
+            ],
+            "Devices": [
+                "Cloud Cam",
+                "Echo(Show",
+                "Echo Buds",
+                "Echo Loop",
+                "Fire(Fire HD,Fire HDX",
+                "Fire TV(Stick",
+                "Kindle"
+            ],
+            "Technology": [
+                "1-Click",
+                "Dynamo",
+                "Obidos"
+            ],
+            "Publishing": [
+                "Amazon Publishing",
+                "Amazon Studios",
+                "Breakthrough Novel Award",
+                "Best Books of the Year",
+                "Kindle Direct Publishing"
+            ],
+            "Retail": [
+                "Amazon Books",
+                "Amazon Go",
+                "Treasure Truck",
+                "Whole Foods Market"
+            ],
+            "Logistics": [
+                "Amazon Air",
+                "Amazon Prime Air"
+            ],
+            "Former": [
+                "43 Things",
+                "Askville",
+                "Amapedia",
+                "Amie Street (Songza)",
+                "CDNow",
+                "Dash buttons",
+                "Dash wand",
+                "Diapers.com",
+                "Endless.com",
+                "Fire Phone",
+                "Lexcycle",
+                "Liquavista",
+                "LivingSocial",
+                "LoveFilm",
+                "Mobipocket",
+                "PlanetAll",
+                "Reflexive Entertainment",
+                "Sellaband",
+                "Shelfari"
+            ]
+        },
+        "Other": [
+            "Amazon Light",
+            "ASIN",
+            "Criticism (tax)",
+            "Fishbowl",
+            "History of Amazon",
+            "LibraryThing",
+            "List of Amazon brands",
+            "List of Amazon locations",
+            "List of Amazon products and services",
+            "List of mergers and acquisitions by Amazon",
+            "Locker",
+            "MacKenzie Bezos",
+            "Perfect 10, Inc. v. Amazon.com, Inc.",
+            "Statistically improbable phrase",
+            "Vine"
+        ]
+    },
+    "Alibaba Group": {
+        "People": [
+            "J. Michael Evans",
+            "Peng Lei",
+            "Jonathan Lu",
+            "Jack Ma",
+            "Joseph Tsai",
+            "Maggie Wei Wu",
+            "Daniel Zhang"
+        ],
+        "Services": [
+            "Alibaba Cloud",
+            "AliExpress",
+            "AliMusic",
+            "AliOS",
+            "Alipay",
+            "AliGenie",
+            "Taobao",
+            "Tmall(Tmall Genie",
+            "Xuexi Qiangguo"
+        ],
+        "Subsidiaries": [
+            "Alibaba Pictures",
+            "Amblin Partners(Amblin Entertainment,Amblin Television,DreamWorks Pictures,DreamWorks Television",
+            "Ant Financial(Telenor",
+            "AutoNavi",
+            "Cainiao",
+            "Daraz",
+            "Ele.me",
+            "Heyi Pictures",
+            "Lazada Group",
+            "Shenma",
+            "South China Morning Post",
+            "Tudou",
+            "UCWeb(UC Browser",
+            "World Electronic Sports Games",
+            "Youku"
+        ]
+    },
+    "Ebay": {
+        "Companies owned by eBay": [
+            "Auction Co.",
+            "eBay",
+            "eBay Enterprise",
+            "Half.com",
+            "G-Market",
+            "Kijiji(Gumtree,LoQUo",
+            "Magento",
+            "Marktplaats.nl",
+            "MicroPlace",
+            "ProStores",
+            "Shopping.com(Epinions",
+            "Shutl",
+            "StubHub",
+            "Tradera"
+        ]
+    },
+    "Walmart": {
+        "Walton family": {
+            "1st generation": [
+                "Sam Walton",
+                "Helen Walton",
+                "James \"Bud\" Walton"
+            ],
+            "2nd generation": [
+                "S. Robson Walton",
+                "John T. Walton",
+                "Christy Walton",
+                "Jim Walton",
+                "Alice Walton",
+                "Ann Walton Kroenke",
+                "Nancy Walton Laurie"
+            ],
+            "3rd generation": [
+                "Lukas Walton",
+                "Whitney Ann Kroenke",
+                "Josh Kroenke",
+                "Carrie Walton Penner",
+                "Elizabeth Paige Laurie"
+            ]
+        },
+        "Chairmen": [
+            "Sam Walton",
+            "S. Robson Walton",
+            "Greg Penner"
+        ],
+        "President/CEO": [
+            "Sam Walton",
+            "David Glass",
+            "Lee Scott",
+            "Mike Duke",
+            "Doug McMillon"
+        ],
+        "Current assets": {
+            "North America": [
+                "Walmart Labs",
+                "Amigo Supermarkets",
+                "Sam's Club",
+                "Vudu",
+                "Walmart Canada",
+                "Walmart Discount Stores",
+                "Walmart Neighborhood Market",
+                "Walmart Supercenter",
+                "Jet.com(Bare Necessities,Bonobos,Hayneedle,ModCloth,Moosejaw,Shoes.com"
+            ],
+            "International": [
+                "Asda(Asda Mobile",
+                "Flipkart (77% shares)",
+                "Massmart",
+                "Seiyu",
+                "Walmart Brasil (20% shares)(Big,Bompre\u00e7o,Hiper Bompre\u00e7o,Nacional,TodoDia,Maxxi Atacado,Mercadorama",
+                "Walmart Chile(L\u00edder",
+                "Walmart de M\u00e9xico y Centroam\u00e9rica(Bodega Aurrer\u00e1"
+            ]
+        },
+        "Brands": [
+            "List of Walmart brands",
+            "Sam's Choice",
+            "White Stag",
+            "Great Value"
+        ],
+        "Former assets": [
+            "Hypermart USA",
+            "Marketside",
+            "M\u00e1s Club",
+            "Supermercado de Walmart",
+            "Walmart Express",
+            "Yihaodian"
+        ],
+        "See also": [
+            "Criticism of Walmart",
+            "Wal-Mart: The High Cost of Low Price",
+            "People of Walmart",
+            "History of Walmart",
+            "List of assets owned by Walmart",
+            "Why Wal-Mart Works; and Why That Drives Some People C-R-A-Z-Y",
+            "Walmart greeter",
+            "Walmarting"
+        ]
+    }
+}
