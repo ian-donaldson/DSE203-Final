@@ -1,9 +1,15 @@
 Company,Acquisition,Year,Amount
-Alibaba Group,Youku,2015,
-Alibaba Group,Alibaba Pictures,2014, $805 million
-Alibaba Group,Vendio,2010,
+Alibaba,Youku,2015,
+Alibaba,Alibaba Pictures,2014, $805 million
+Alibaba,Vendio,2010,
+Alibaba,South China Morning Post,2015,
+Alibaba,Amblin Partners,2016,
 Walmart,Kmart,1993,
 Walmart,Vudu,2010,$100 million
 Walmart,Jet.com,2016,
-Walmart,Moosejaw,2017,$51 million
-Walmart,Asda,,
+Amazon,Ring Inc.,2018,$1 billion 
+Amazon,Whole Foods Market,2017,
+Amazon,Zappos,2009,$1.2 billion
+eBay,PayPal,2002,$1.5 billion
+eBay,Craigslist,2004,$13.5 million
+eBay,Skype Technologies,2005,$2.6 billion
