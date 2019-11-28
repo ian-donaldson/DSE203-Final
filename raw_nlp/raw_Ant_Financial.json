@@ -1,0 +1,2473 @@
+{
+    "Attributes": [
+        [
+            "Ant Financial Services Group",
+            "is",
+            "an affiliate company of the Chinese Alibaba Group"
+        ]
+    ],
+    "Method1": [
+        [
+            {
+                "after": [
+                    "as"
+                ],
+                "before": [
+                    "Ant Financial Services Group"
+                ],
+                "prep": [
+                    "as Alipay",
+                    "of the Chinese Alibaba Group"
+                ],
+                "verb": "known"
+            },
+            {
+                "after": [
+                    "as"
+                ],
+                "before": [
+                    "Ant Financial Services Group"
+                ],
+                "prep": [
+                    "as Alipay",
+                    "of the Chinese Alibaba Group"
+                ],
+                "verb": "known"
+            },
+            {
+                "after": [
+                    "an affiliate company"
+                ],
+                "before": [
+                    "Ant Financial Services Group"
+                ],
+                "prep": [
+                    "as Alipay",
+                    "of the Chinese Alibaba Group"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [
+                    "an affiliate company"
+                ],
+                "before": [
+                    "Ant Financial Services Group"
+                ],
+                "prep": [
+                    "as Alipay",
+                    "of the Chinese Alibaba Group"
+                ],
+                "verb": "is"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "the highest valued FinTech company",
+                    ",",
+                    "and",
+                    "unicorn"
+                ],
+                "before": [
+                    " Ant Financial"
+                ],
+                "prep": [
+                    "in the world",
+                    "with a valuation of US$150 billion",
+                    "of US$150 billion"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [
+                    "the highest valued FinTech company",
+                    ",",
+                    "and",
+                    "unicorn"
+                ],
+                "before": [
+                    " Ant Financial"
+                ],
+                "prep": [
+                    "in the world",
+                    "with a valuation of US$150 billion",
+                    "of US$150 billion"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [],
+                "before": [
+                    "unicorn"
+                ],
+                "prep": [
+                    "in the world",
+                    "with a valuation of US$150 billion",
+                    "of US$150 billion"
+                ],
+                "verb": "start-up) company"
+            },
+            {
+                "after": [],
+                "before": [
+                    "unicorn"
+                ],
+                "prep": [
+                    "in the world",
+                    "with a valuation of US$150 billion",
+                    "of US$150 billion"
+                ],
+                "verb": "start-up) company"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "was"
+                ],
+                "before": [
+                    "The Wall Street Journal"
+                ],
+                "prep": [
+                    "In March 2019",
+                    "that",
+                    "in the world",
+                    "with over 588 million users of Ant's mobile payments network Alipay contributing , more than a third of China's population",
+                    "over 588 million users of Ant's mobile payments network Alipay",
+                    "of Ant's mobile payments network Alipay",
+                    "of China's population"
+                ],
+                "verb": "reported"
+            },
+            {
+                "after": [
+                    "was"
+                ],
+                "before": [
+                    "The Wall Street Journal"
+                ],
+                "prep": [
+                    "In March 2019",
+                    "that",
+                    "in the world",
+                    "with over 588 million users of Ant's mobile payments network Alipay contributing , more than a third of China's population",
+                    "over 588 million users of Ant's mobile payments network Alipay",
+                    "of Ant's mobile payments network Alipay",
+                    "of China's population"
+                ],
+                "verb": "reported"
+            },
+            {
+                "after": [
+                    "was"
+                ],
+                "before": [
+                    "The Wall Street Journal"
+                ],
+                "prep": [
+                    "In March 2019",
+                    "that",
+                    "in the world",
+                    "with over 588 million users of Ant's mobile payments network Alipay contributing , more than a third of China's population",
+                    "over 588 million users of Ant's mobile payments network Alipay",
+                    "of Ant's mobile payments network Alipay",
+                    "of China's population"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [
+                    "was"
+                ],
+                "before": [
+                    "The Wall Street Journal"
+                ],
+                "prep": [
+                    "In March 2019",
+                    "that",
+                    "in the world",
+                    "with over 588 million users of Ant's mobile payments network Alipay contributing , more than a third of China's population",
+                    "over 588 million users of Ant's mobile payments network Alipay",
+                    "of Ant's mobile payments network Alipay",
+                    "of China's population"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [
+                    ",",
+                    "more than a third"
+                ],
+                "before": [
+                    "with"
+                ],
+                "prep": [
+                    "In March 2019",
+                    "that",
+                    "in the world",
+                    "with over 588 million users of Ant's mobile payments network Alipay contributing , more than a third of China's population",
+                    "over 588 million users of Ant's mobile payments network Alipay",
+                    "of Ant's mobile payments network Alipay",
+                    "of China's population"
+                ],
+                "verb": "contributing"
+            },
+            {
+                "after": [
+                    ",",
+                    "more than a third"
+                ],
+                "before": [
+                    "with"
+                ],
+                "prep": [
+                    "In March 2019",
+                    "that",
+                    "in the world",
+                    "with over 588 million users of Ant's mobile payments network Alipay contributing , more than a third of China's population",
+                    "over 588 million users of Ant's mobile payments network Alipay",
+                    "of Ant's mobile payments network Alipay",
+                    "of China's population"
+                ],
+                "verb": "contributing"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [],
+                "before": [
+                    "rebranded"
+                ],
+                "prep": [
+                    "as Ant Financial Services",
+                    "on 23 October 2014"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [],
+                "before": [
+                    "rebranded"
+                ],
+                "prep": [
+                    "as Ant Financial Services",
+                    "on 23 October 2014"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [
+                    "as",
+                    "on"
+                ],
+                "before": [
+                    "rebranded"
+                ],
+                "prep": [
+                    "as Ant Financial Services",
+                    "on 23 October 2014"
+                ],
+                "verb": "rebranded"
+            },
+            {
+                "after": [
+                    "as",
+                    "on"
+                ],
+                "before": [
+                    "rebranded"
+                ],
+                "prep": [
+                    "as Ant Financial Services",
+                    "on 23 October 2014"
+                ],
+                "verb": "rebranded"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "4"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "In 2015"
+                ],
+                "verb": "raised"
+            },
+            {
+                "after": [
+                    "4"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "In 2015"
+                ],
+                "verb": "raised"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [],
+                "before": [
+                    "valued"
+                ],
+                "prep": [
+                    "In 2015",
+                    "at about $45 billion",
+                    "about $45 billion"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [],
+                "before": [
+                    "valued"
+                ],
+                "prep": [
+                    "In 2015",
+                    "at about $45 billion",
+                    "about $45 billion"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [
+                    "at"
+                ],
+                "before": [
+                    "8"
+                ],
+                "prep": [
+                    "In 2015",
+                    "at about $45 billion",
+                    "about $45 billion"
+                ],
+                "verb": "valued"
+            },
+            {
+                "after": [
+                    "at"
+                ],
+                "before": [
+                    "8"
+                ],
+                "prep": [
+                    "In 2015",
+                    "at about $45 billion",
+                    "about $45 billion"
+                ],
+                "verb": "valued"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "around 450 million annual active users",
+                    ",",
+                    "with"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "[ 9 ] As of 26 April 2016",
+                    "of 26 April 2016",
+                    "with Credit Suisse estimating that 58% of China\u2019s online payment transactions went through Alipay",
+                    "that",
+                    "of China\u2019s online payment transactions",
+                    "through Alipay"
+                ],
+                "verb": "had"
+            },
+            {
+                "after": [
+                    "around 450 million annual active users",
+                    ",",
+                    "with"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "[ 9 ] As of 26 April 2016",
+                    "of 26 April 2016",
+                    "with Credit Suisse estimating that 58% of China\u2019s online payment transactions went through Alipay",
+                    "that",
+                    "of China\u2019s online payment transactions",
+                    "through Alipay"
+                ],
+                "verb": "had"
+            },
+            {
+                "after": [
+                    "went"
+                ],
+                "before": [
+                    "with"
+                ],
+                "prep": [
+                    "[ 9 ] As of 26 April 2016",
+                    "of 26 April 2016",
+                    "with Credit Suisse estimating that 58% of China\u2019s online payment transactions went through Alipay",
+                    "that",
+                    "of China\u2019s online payment transactions",
+                    "through Alipay"
+                ],
+                "verb": "estimating"
+            },
+            {
+                "after": [
+                    "went"
+                ],
+                "before": [
+                    "with"
+                ],
+                "prep": [
+                    "[ 9 ] As of 26 April 2016",
+                    "of 26 April 2016",
+                    "with Credit Suisse estimating that 58% of China\u2019s online payment transactions went through Alipay",
+                    "that",
+                    "of China\u2019s online payment transactions",
+                    "through Alipay"
+                ],
+                "verb": "estimating"
+            },
+            {
+                "after": [
+                    "went"
+                ],
+                "before": [
+                    "Credit Suisse"
+                ],
+                "prep": [
+                    "[ 9 ] As of 26 April 2016",
+                    "of 26 April 2016",
+                    "with Credit Suisse estimating that 58% of China\u2019s online payment transactions went through Alipay",
+                    "that",
+                    "of China\u2019s online payment transactions",
+                    "through Alipay"
+                ],
+                "verb": "went"
+            },
+            {
+                "after": [
+                    "went"
+                ],
+                "before": [
+                    "Credit Suisse"
+                ],
+                "prep": [
+                    "[ 9 ] As of 26 April 2016",
+                    "of 26 April 2016",
+                    "with Credit Suisse estimating that 58% of China\u2019s online payment transactions went through Alipay",
+                    "that",
+                    "of China\u2019s online payment transactions",
+                    "through Alipay"
+                ],
+                "verb": "went"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "EyeVerify Inc"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "In September 2016"
+                ],
+                "verb": "bought"
+            },
+            {
+                "after": [
+                    "EyeVerify Inc"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "In September 2016"
+                ],
+                "verb": "bought"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "a valuation"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "By late January 2017",
+                    "of $60 billion"
+                ],
+                "verb": "had"
+            },
+            {
+                "after": [
+                    "a valuation"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "By late January 2017",
+                    "of $60 billion"
+                ],
+                "verb": "had"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "a deal"
+                ],
+                "before": [
+                    "Ant Financial Services Group"
+                ],
+                "prep": [
+                    "On 26 January 2017",
+                    "for $880 million"
+                ],
+                "verb": "announced"
+            },
+            {
+                "after": [
+                    "a deal"
+                ],
+                "before": [
+                    "Ant Financial Services Group"
+                ],
+                "prep": [
+                    "On 26 January 2017",
+                    "for $880 million"
+                ],
+                "verb": "announced"
+            },
+            {
+                "after": [
+                    "MoneyGram International",
+                    "for"
+                ],
+                "before": [
+                    "a deal"
+                ],
+                "prep": [
+                    "On 26 January 2017",
+                    "for $880 million"
+                ],
+                "verb": "acquire"
+            },
+            {
+                "after": [
+                    "MoneyGram International",
+                    "for"
+                ],
+                "before": [
+                    "a deal"
+                ],
+                "prep": [
+                    "On 26 January 2017",
+                    "for $880 million"
+                ],
+                "verb": "acquire"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "terminate"
+                ],
+                "before": [
+                    " Ant Financial Services Group"
+                ],
+                "prep": [
+                    "for $880 million",
+                    "after",
+                    "from the CFIUS"
+                ],
+                "verb": "decided"
+            },
+            {
+                "after": [
+                    "terminate"
+                ],
+                "before": [
+                    " Ant Financial Services Group"
+                ],
+                "prep": [
+                    "for $880 million",
+                    "after",
+                    "from the CFIUS"
+                ],
+                "verb": "decided"
+            },
+            {
+                "after": [
+                    "terminate"
+                ],
+                "before": [
+                    " Ant Financial Services Group"
+                ],
+                "prep": [
+                    "for $880 million",
+                    "after",
+                    "from the CFIUS"
+                ],
+                "verb": "terminate"
+            },
+            {
+                "after": [
+                    "terminate"
+                ],
+                "before": [
+                    " Ant Financial Services Group"
+                ],
+                "prep": [
+                    "for $880 million",
+                    "after",
+                    "from the CFIUS"
+                ],
+                "verb": "terminate"
+            },
+            {
+                "after": [
+                    "MoneyGram International",
+                    "for"
+                ],
+                "before": [
+                    "a deal"
+                ],
+                "prep": [
+                    "for $880 million",
+                    "after",
+                    "from the CFIUS"
+                ],
+                "verb": "acquire"
+            },
+            {
+                "after": [
+                    "MoneyGram International",
+                    "for"
+                ],
+                "before": [
+                    "a deal"
+                ],
+                "prep": [
+                    "for $880 million",
+                    "after",
+                    "from the CFIUS"
+                ],
+                "verb": "acquire"
+            },
+            {
+                "after": [],
+                "before": [
+                    "granted"
+                ],
+                "prep": [
+                    "for $880 million",
+                    "after",
+                    "from the CFIUS"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [],
+                "before": [
+                    "granted"
+                ],
+                "prep": [
+                    "for $880 million",
+                    "after",
+                    "from the CFIUS"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [
+                    "from"
+                ],
+                "before": [
+                    "terminate"
+                ],
+                "prep": [
+                    "for $880 million",
+                    "after",
+                    "from the CFIUS"
+                ],
+                "verb": "granted"
+            },
+            {
+                "after": [
+                    "from"
+                ],
+                "before": [
+                    "terminate"
+                ],
+                "prep": [
+                    "for $880 million",
+                    "after",
+                    "from the CFIUS"
+                ],
+                "verb": "granted"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "a joint venture",
+                    "with"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "In September 2017",
+                    "with Sir Li Ka-shing's CK Hutchison Holdings",
+                    "in Hong Kong"
+                ],
+                "verb": "formed"
+            },
+            {
+                "after": [
+                    "a joint venture",
+                    "with"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "In September 2017",
+                    "with Sir Li Ka-shing's CK Hutchison Holdings",
+                    "in Hong Kong"
+                ],
+                "verb": "formed"
+            },
+            {
+                "after": [
+                    "a digital wallet service",
+                    "in"
+                ],
+                "before": [
+                    "a joint venture"
+                ],
+                "prep": [
+                    "In September 2017",
+                    "with Sir Li Ka-shing's CK Hutchison Holdings",
+                    "in Hong Kong"
+                ],
+                "verb": "bring"
+            },
+            {
+                "after": [
+                    "a digital wallet service",
+                    "in"
+                ],
+                "before": [
+                    "a joint venture"
+                ],
+                "prep": [
+                    "In September 2017",
+                    "with Sir Li Ka-shing's CK Hutchison Holdings",
+                    "in Hong Kong"
+                ],
+                "verb": "bring"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "a blockchain-powered cash remittance service"
+                ],
+                "before": [
+                    "Sir Li Ka-shing's CK Hutchison Holdings"
+                ],
+                "prep": [
+                    "In June 2018",
+                    "of cash",
+                    "between individuals in Hong Kong and the Philippines",
+                    "in Hong Kong and the Philippines"
+                ],
+                "verb": "launched"
+            },
+            {
+                "after": [
+                    "a blockchain-powered cash remittance service"
+                ],
+                "before": [
+                    "Sir Li Ka-shing's CK Hutchison Holdings"
+                ],
+                "prep": [
+                    "In June 2018",
+                    "of cash",
+                    "between individuals in Hong Kong and the Philippines",
+                    "in Hong Kong and the Philippines"
+                ],
+                "verb": "launched"
+            },
+            {
+                "after": [
+                    "real-time transfers"
+                ],
+                "before": [
+                    "that"
+                ],
+                "prep": [
+                    "In June 2018",
+                    "of cash",
+                    "between individuals in Hong Kong and the Philippines",
+                    "in Hong Kong and the Philippines"
+                ],
+                "verb": "will"
+            },
+            {
+                "after": [
+                    "real-time transfers"
+                ],
+                "before": [
+                    "that"
+                ],
+                "prep": [
+                    "In June 2018",
+                    "of cash",
+                    "between individuals in Hong Kong and the Philippines",
+                    "in Hong Kong and the Philippines"
+                ],
+                "verb": "will"
+            },
+            {
+                "after": [
+                    "real-time transfers"
+                ],
+                "before": [
+                    "a blockchain-powered cash remittance service"
+                ],
+                "prep": [
+                    "In June 2018",
+                    "of cash",
+                    "between individuals in Hong Kong and the Philippines",
+                    "in Hong Kong and the Philippines"
+                ],
+                "verb": "allow"
+            },
+            {
+                "after": [
+                    "real-time transfers"
+                ],
+                "before": [
+                    "a blockchain-powered cash remittance service"
+                ],
+                "prep": [
+                    "In June 2018",
+                    "of cash",
+                    "between individuals in Hong Kong and the Philippines",
+                    "in Hong Kong and the Philippines"
+                ],
+                "verb": "allow"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "US$14 billion"
+                ],
+                "before": [
+                    "9 June 2018"
+                ],
+                "prep": [
+                    "On 9 June 2018",
+                    "by a private company"
+                ],
+                "verb": "raised"
+            },
+            {
+                "after": [
+                    "US$14 billion"
+                ],
+                "before": [
+                    "9 June 2018"
+                ],
+                "prep": [
+                    "On 9 June 2018",
+                    "by a private company"
+                ],
+                "verb": "raised"
+            },
+            {
+                "after": [
+                    "raising"
+                ],
+                "before": [
+                    "US$14 billion"
+                ],
+                "prep": [
+                    "On 9 June 2018",
+                    "by a private company"
+                ],
+                "verb": "called"
+            },
+            {
+                "after": [
+                    "raising"
+                ],
+                "before": [
+                    "US$14 billion"
+                ],
+                "prep": [
+                    "On 9 June 2018",
+                    "by a private company"
+                ],
+                "verb": "called"
+            },
+            {
+                "after": [
+                    "raising"
+                ],
+                "before": [
+                    "the Times of India"
+                ],
+                "prep": [
+                    "On 9 June 2018",
+                    "by a private company"
+                ],
+                "verb": "raising"
+            },
+            {
+                "after": [
+                    "raising"
+                ],
+                "before": [
+                    "the Times of India"
+                ],
+                "prep": [
+                    "On 9 June 2018",
+                    "by a private company"
+                ],
+                "verb": "raising"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "the British international money transfer services provider",
+                    "for"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "On 14 February 2019",
+                    "\" for $700 million"
+                ],
+                "verb": "acquires"
+            },
+            {
+                "after": [
+                    "the British international money transfer services provider",
+                    "for"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "On 14 February 2019",
+                    "\" for $700 million"
+                ],
+                "verb": "acquires"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "Alipay"
+                ],
+                "before": [
+                    "It"
+                ],
+                "prep": [
+                    "as well as"
+                ],
+                "verb": "operates"
+            },
+            {
+                "after": [
+                    "Alipay"
+                ],
+                "before": [
+                    "It"
+                ],
+                "prep": [
+                    "as well as"
+                ],
+                "verb": "operates"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "Sesame Credit"
+                ],
+                "before": [
+                    "It"
+                ],
+                "prep": [],
+                "verb": "runs"
+            },
+            {
+                "after": [
+                    "Sesame Credit"
+                ],
+                "before": [
+                    "It"
+                ],
+                "prep": [],
+                "verb": "runs"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "Ant Financial facial recognition payment technology",
+                    "through"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "As of September 2017",
+                    "of September 2017",
+                    "through Ant Financial Alipay services"
+                ],
+                "verb": "unveiled"
+            },
+            {
+                "after": [
+                    "Ant Financial facial recognition payment technology",
+                    "through"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "As of September 2017",
+                    "of September 2017",
+                    "through Ant Financial Alipay services"
+                ],
+                "verb": "unveiled"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "the Ant Financial Technology brand",
+                    "for"
+                ],
+                "before": [
+                    "the company"
+                ],
+                "prep": [
+                    "In September 2018",
+                    "for all of the company technology products and services",
+                    "of the company technology products and services"
+                ],
+                "verb": "launched"
+            },
+            {
+                "after": [
+                    "the Ant Financial Technology brand",
+                    "for"
+                ],
+                "before": [
+                    "the company"
+                ],
+                "prep": [
+                    "In September 2018",
+                    "for all of the company technology products and services",
+                    "of the company technology products and services"
+                ],
+                "verb": "launched"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [],
+                "before": [
+                    "created"
+                ],
+                "prep": [
+                    "as a joint venture in 2015 by Alibaba and Ant Financial Services Group",
+                    "in 2015",
+                    "by Alibaba and Ant Financial Services Group"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [],
+                "before": [
+                    "created"
+                ],
+                "prep": [
+                    "as a joint venture in 2015 by Alibaba and Ant Financial Services Group",
+                    "in 2015",
+                    "by Alibaba and Ant Financial Services Group"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [
+                    "as"
+                ],
+                "before": [
+                    "created"
+                ],
+                "prep": [
+                    "as a joint venture in 2015 by Alibaba and Ant Financial Services Group",
+                    "in 2015",
+                    "by Alibaba and Ant Financial Services Group"
+                ],
+                "verb": "created"
+            },
+            {
+                "after": [
+                    "as"
+                ],
+                "before": [
+                    "created"
+                ],
+                "prep": [
+                    "as a joint venture in 2015 by Alibaba and Ant Financial Services Group",
+                    "in 2015",
+                    "by Alibaba and Ant Financial Services Group"
+                ],
+                "verb": "created"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "credit payment company Huabei",
+                    ",",
+                    "and",
+                    "the online bank"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [],
+                "verb": "operates"
+            },
+            {
+                "after": [
+                    "credit payment company Huabei",
+                    ",",
+                    "and",
+                    "the online bank"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [],
+                "verb": "operates"
+            },
+            {
+                "after": [
+                    "MYbank"
+                ],
+                "before": [
+                    "the online bank"
+                ],
+                "prep": [],
+                "verb": "called"
+            },
+            {
+                "after": [
+                    "MYbank"
+                ],
+                "before": [
+                    "the online bank"
+                ],
+                "prep": [],
+                "verb": "called"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "Ant Fortune"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "In 2015"
+                ],
+                "verb": "launched"
+            },
+            {
+                "after": [
+                    "Ant Fortune"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "prep": [
+                    "In 2015"
+                ],
+                "verb": "launched"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "one"
+                ],
+                "before": [
+                    "Bao"
+                ],
+                "prep": [
+                    "of the products on the platform",
+                    "on the platform"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [
+                    "one"
+                ],
+                "before": [
+                    "Bao"
+                ],
+                "prep": [
+                    "of the products on the platform",
+                    "on the platform"
+                ],
+                "verb": "is"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "hundreds products",
+                    "from"
+                ],
+                "before": [
+                    " Ant Fortune"
+                ],
+                "prep": [
+                    "from more than 80 Chinese fund institutions"
+                ],
+                "verb": "offers"
+            },
+            {
+                "after": [
+                    "hundreds products",
+                    "from"
+                ],
+                "before": [
+                    " Ant Fortune"
+                ],
+                "prep": [
+                    "from more than 80 Chinese fund institutions"
+                ],
+                "verb": "offers"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "platform"
+                ],
+                "before": [
+                    "Ant Fortune"
+                ],
+                "prep": [
+                    "In June 2017",
+                    "through the platform"
+                ],
+                "verb": "launched"
+            },
+            {
+                "after": [
+                    "platform"
+                ],
+                "before": [
+                    "Ant Fortune"
+                ],
+                "prep": [
+                    "In June 2017",
+                    "through the platform"
+                ],
+                "verb": "launched"
+            },
+            {
+                "after": [
+                    "publish"
+                ],
+                "before": [
+                    "platform"
+                ],
+                "prep": [
+                    "In June 2017",
+                    "through the platform"
+                ],
+                "verb": "allows"
+            },
+            {
+                "after": [
+                    "publish"
+                ],
+                "before": [
+                    "platform"
+                ],
+                "prep": [
+                    "In June 2017",
+                    "through the platform"
+                ],
+                "verb": "allows"
+            },
+            {
+                "after": [
+                    "publish"
+                ],
+                "before": [
+                    "that"
+                ],
+                "prep": [
+                    "In June 2017",
+                    "through the platform"
+                ],
+                "verb": "publish"
+            },
+            {
+                "after": [
+                    "publish"
+                ],
+                "before": [
+                    "that"
+                ],
+                "prep": [
+                    "In June 2017",
+                    "through the platform"
+                ],
+                "verb": "publish"
+            },
+            {
+                "after": [
+                    "content",
+                    "and",
+                    "sell"
+                ],
+                "before": [
+                    "financial institutions"
+                ],
+                "prep": [
+                    "In June 2017",
+                    "through the platform"
+                ],
+                "verb": "sell"
+            },
+            {
+                "after": [
+                    "content",
+                    "and",
+                    "sell"
+                ],
+                "before": [
+                    "financial institutions"
+                ],
+                "prep": [
+                    "In June 2017",
+                    "through the platform"
+                ],
+                "verb": "sell"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [],
+                "before": [
+                    "ranked"
+                ],
+                "prep": [
+                    "In 2017",
+                    "in Fortune's Change the World list , recognized for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for tracking individuals' carbon footprints"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [],
+                "before": [
+                    "ranked"
+                ],
+                "prep": [
+                    "In 2017",
+                    "in Fortune's Change the World list , recognized for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for tracking individuals' carbon footprints"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [
+                    "sixth",
+                    "in"
+                ],
+                "before": [
+                    "ranked"
+                ],
+                "prep": [
+                    "In 2017",
+                    "in Fortune's Change the World list , recognized for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for tracking individuals' carbon footprints"
+                ],
+                "verb": "ranked"
+            },
+            {
+                "after": [
+                    "sixth",
+                    "in"
+                ],
+                "before": [
+                    "ranked"
+                ],
+                "prep": [
+                    "In 2017",
+                    "in Fortune's Change the World list , recognized for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for tracking individuals' carbon footprints"
+                ],
+                "verb": "ranked"
+            },
+            {
+                "after": [
+                    "for"
+                ],
+                "before": [
+                    "Fortune's Change the World"
+                ],
+                "prep": [
+                    "In 2017",
+                    "in Fortune's Change the World list , recognized for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for tracking individuals' carbon footprints"
+                ],
+                "verb": "recognized"
+            },
+            {
+                "after": [
+                    "for"
+                ],
+                "before": [
+                    "Fortune's Change the World"
+                ],
+                "prep": [
+                    "In 2017",
+                    "in Fortune's Change the World list , recognized for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for tracking individuals' carbon footprints"
+                ],
+                "verb": "recognized"
+            },
+            {
+                "after": [
+                    "individuals' carbon footprints"
+                ],
+                "before": [
+                    "for"
+                ],
+                "prep": [
+                    "In 2017",
+                    "in Fortune's Change the World list , recognized for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for tracking individuals' carbon footprints"
+                ],
+                "verb": "tracking"
+            },
+            {
+                "after": [
+                    "individuals' carbon footprints"
+                ],
+                "before": [
+                    "for"
+                ],
+                "prep": [
+                    "In 2017",
+                    "in Fortune's Change the World list , recognized for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for the positive environmental impact of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "of Ant Forest , the world's largest platform for tracking individuals' carbon footprints",
+                    "for tracking individuals' carbon footprints"
+                ],
+                "verb": "tracking"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "collect"
+                ],
+                "before": [
+                    "Ant Forest"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "allows"
+            },
+            {
+                "after": [
+                    "collect"
+                ],
+                "before": [
+                    "Ant Forest"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "allows"
+            },
+            {
+                "after": [
+                    "collect"
+                ],
+                "before": [
+                    "Ant Forest"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "collect"
+            },
+            {
+                "after": [
+                    "collect"
+                ],
+                "before": [
+                    "Ant Forest"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "collect"
+            },
+            {
+                "after": [],
+                "before": [
+                    "used"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "can"
+            },
+            {
+                "after": [],
+                "before": [
+                    "used"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "can"
+            },
+            {
+                "after": [],
+                "before": [
+                    "used"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "be"
+            },
+            {
+                "after": [],
+                "before": [
+                    "used"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "be"
+            },
+            {
+                "after": [
+                    "grow"
+                ],
+                "before": [
+                    "Ant Forest actions"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "used"
+            },
+            {
+                "after": [
+                    "grow"
+                ],
+                "before": [
+                    "Ant Forest actions"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "used"
+            },
+            {
+                "after": [
+                    "virtual and ultimately real trees",
+                    ",",
+                    "with"
+                ],
+                "before": [
+                    "used"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "grow"
+            },
+            {
+                "after": [
+                    "virtual and ultimately real trees",
+                    ",",
+                    "with"
+                ],
+                "before": [
+                    "used"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "grow"
+            },
+            {
+                "after": [
+                    "Ant Forest accounts"
+                ],
+                "before": [
+                    "230 million users"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "activating"
+            },
+            {
+                "after": [
+                    "Ant Forest accounts"
+                ],
+                "before": [
+                    "230 million users"
+                ],
+                "prep": [
+                    "\" through Ant Forest actions in the real world that can be used to grow virtual and ultimately real trees , with 230 million users of Alipay activating Ant Forest accounts",
+                    "in the real world",
+                    "with 230 million users of Alipay activating Ant Forest accounts",
+                    "of Alipay"
+                ],
+                "verb": "activating"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "environmental NGOs"
+                ],
+                "before": [
+                    " Ant Financial and Ant Financial partners"
+                ],
+                "prep": [],
+                "verb": "including"
+            },
+            {
+                "after": [
+                    "environmental NGOs"
+                ],
+                "before": [
+                    " Ant Financial and Ant Financial partners"
+                ],
+                "prep": [],
+                "verb": "including"
+            },
+            {
+                "after": [
+                    "10"
+                ],
+                "before": [
+                    " Ant Financial and Ant Financial partners"
+                ],
+                "prep": [],
+                "verb": "have"
+            },
+            {
+                "after": [
+                    "10"
+                ],
+                "before": [
+                    " Ant Financial and Ant Financial partners"
+                ],
+                "prep": [],
+                "verb": "have"
+            },
+            {
+                "after": [
+                    "10"
+                ],
+                "before": [
+                    " Ant Financial and Ant Financial partners"
+                ],
+                "prep": [],
+                "verb": "planted"
+            },
+            {
+                "after": [
+                    "10"
+                ],
+                "before": [
+                    " Ant Financial and Ant Financial partners"
+                ],
+                "prep": [],
+                "verb": "planted"
+            }
+        ],
+        [],
+        [],
+        []
+    ],
+    "Method2": [
+        [
+            {
+                "after": [
+                    "Alipay"
+                ],
+                "before": [
+                    "Ant Financial Services Group",
+                    "Chinese",
+                    "\u8682\u8681\u91d1\u670d"
+                ],
+                "verb": "known"
+            },
+            {
+                "after": [
+                    "affiliate company",
+                    "Chinese Alibaba Group"
+                ],
+                "before": [
+                    "Alipay"
+                ],
+                "verb": "is"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "highest valued FinTech company",
+                    "world",
+                    "startup company",
+                    "valuation"
+                ],
+                "before": [
+                    " Ant Financial"
+                ],
+                "verb": "is"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "Ants flagship"
+                ],
+                "before": [
+                    "March",
+                    "Wall Street Journal"
+                ],
+                "verb": "reported"
+            },
+            {
+                "after": [
+                    "Tianhong Yue Bao moneymarket fund"
+                ],
+                "before": [
+                    "Ants flagship"
+                ],
+                "verb": "Yu'e"
+            },
+            {
+                "after": [
+                    "world",
+                    "over 588 million users",
+                    "Ants mobile payments network Alipay"
+                ],
+                "before": [
+                    "Tianhong Yue Bao moneymarket fund"
+                ],
+                "verb": "was"
+            },
+            {
+                "after": [
+                    "more than a third",
+                    "Chinas population"
+                ],
+                "before": [
+                    "world",
+                    "over 588 million users",
+                    "Ants mobile payments network Alipay"
+                ],
+                "verb": "contributing"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "Ant Financial Services",
+                    "23 October"
+                ],
+                "before": [
+                    "Alipay"
+                ],
+                "verb": "rebranded"
+            }
+        ],
+        [
+            {
+                "after": [],
+                "before": [
+                    "Ant Financial"
+                ],
+                "verb": "raised"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [],
+                "before": [
+                    "Alipay"
+                ],
+                "verb": "valued"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "around 450 million annual active users",
+                    "Credit Suisse"
+                ],
+                "before": [
+                    "26 April",
+                    "Ant Financial"
+                ],
+                "verb": "had"
+            },
+            {
+                "after": [
+                    "58",
+                    "Chinas online payment transactions"
+                ],
+                "before": [
+                    "around 450 million annual active users",
+                    "Credit Suisse"
+                ],
+                "verb": "estimating"
+            },
+            {
+                "after": [
+                    "Alipay"
+                ],
+                "before": [
+                    "58",
+                    "Chinas online payment transactions"
+                ],
+                "verb": "went"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "EyeVerify Inc"
+                ],
+                "before": [
+                    "September",
+                    "Ant Financial"
+                ],
+                "verb": "bought"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "valuation"
+                ],
+                "before": [
+                    "late January",
+                    "Ant Financial"
+                ],
+                "verb": "had"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "deal"
+                ],
+                "before": [
+                    "26 January",
+                    "Ant Financial Services Group"
+                ],
+                "verb": "announced"
+            },
+            {
+                "after": [
+                    "MoneyGram International"
+                ],
+                "before": [
+                    "deal"
+                ],
+                "verb": "acquire"
+            }
+        ],
+        [
+            {
+                "after": [],
+                "before": [
+                    " Ant Financial Services Group"
+                ],
+                "verb": "decided"
+            },
+            {
+                "after": [
+                    "deal"
+                ],
+                "before": [],
+                "verb": "terminate"
+            },
+            {
+                "after": [
+                    "MoneyGram International",
+                    "approval"
+                ],
+                "before": [
+                    "deal"
+                ],
+                "verb": "acquire"
+            },
+            {
+                "after": [
+                    "CFIUS"
+                ],
+                "before": [
+                    "MoneyGram International",
+                    "approval"
+                ],
+                "verb": "granted"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "joint venture",
+                    "Sir Li Kashings CK Hutchison Holdings"
+                ],
+                "before": [
+                    "September",
+                    "Ant Financial"
+                ],
+                "verb": "formed"
+            },
+            {
+                "after": [
+                    "digital wallet service",
+                    "Hong Kong"
+                ],
+                "before": [
+                    "joint venture",
+                    "Sir Li Kashings CK Hutchison Holdings"
+                ],
+                "verb": "bring"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "blockchainpowered cash remittance service"
+                ],
+                "before": [
+                    "June",
+                    "Sir Li Kashings CK Hutchison Holdings"
+                ],
+                "verb": "launched"
+            },
+            {
+                "after": [
+                    "realtime transfers",
+                    "cash",
+                    "individuals",
+                    "Hong Kong",
+                    "Philippines"
+                ],
+                "before": [
+                    "blockchainpowered cash remittance service"
+                ],
+                "verb": "allow"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "Times",
+                    "India"
+                ],
+                "before": [
+                    "9 June",
+                    "9 June"
+                ],
+                "verb": "raised"
+            },
+            {
+                "after": [],
+                "before": [
+                    "Times",
+                    "India"
+                ],
+                "verb": "called"
+            },
+            {
+                "after": [
+                    "private company"
+                ],
+                "before": [],
+                "verb": "raising"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "British international money transfer services provider",
+                    "WorldFirst"
+                ],
+                "before": [
+                    "14 February",
+                    "Ant Financial"
+                ],
+                "verb": "acquires"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "Alipay",
+                    "worlds largest mobile and online payments platform",
+                    "Yue Bao",
+                    "worlds largest moneymarket fund"
+                ],
+                "before": [
+                    "It"
+                ],
+                "verb": "operates"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "Sesame Credit",
+                    "thirdparty credit rating system"
+                ],
+                "before": [
+                    "It"
+                ],
+                "verb": "runs"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "Ant Financial facial recognition payment technology",
+                    "Ant Financial Alipay services"
+                ],
+                "before": [
+                    "September",
+                    "Ant Financial"
+                ],
+                "verb": "unveiled"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "Ant Financial Technology brand",
+                    "company technology products",
+                    "services"
+                ],
+                "before": [
+                    "September",
+                    "company"
+                ],
+                "verb": "launched"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "joint venture",
+                    "Alibaba",
+                    "Ant Financial Services Group"
+                ],
+                "before": [
+                    "financial company",
+                    "Koubei"
+                ],
+                "verb": "created"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "credit payment company Huabei",
+                    "online bank"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "verb": "operates"
+            },
+            {
+                "after": [],
+                "before": [
+                    "credit payment company Huabei",
+                    "online bank"
+                ],
+                "verb": "called"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "Ant Fortune",
+                    "wealth management platform"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "verb": "launched"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "products",
+                    "platform"
+                ],
+                "before": [
+                    " Yue",
+                    "Bao"
+                ],
+                "verb": "is"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "hundreds products",
+                    "more than 80 Chinese fund institutions"
+                ],
+                "before": [
+                    " Ant Fortune"
+                ],
+                "verb": "offers"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "\u8d22\u5bcc\u53f7"
+                ],
+                "before": [
+                    "June",
+                    "Ant Fortune"
+                ],
+                "verb": "launched"
+            },
+            {
+                "after": [
+                    "financial institutions"
+                ],
+                "before": [
+                    "\u8d22\u5bcc\u53f7"
+                ],
+                "verb": "allows"
+            },
+            {
+                "after": [
+                    "content"
+                ],
+                "before": [
+                    "financial institutions"
+                ],
+                "verb": "publish"
+            },
+            {
+                "after": [
+                    "Ant Fortune own financial products",
+                    "platform"
+                ],
+                "before": [
+                    "content"
+                ],
+                "verb": "sell"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "Fortunes Change",
+                    "World list"
+                ],
+                "before": [
+                    "Ant Financial"
+                ],
+                "verb": "ranked"
+            },
+            {
+                "after": [
+                    "positive environmental impact",
+                    "Ant Forest",
+                    "worlds largest platform"
+                ],
+                "before": [
+                    "Fortunes Change",
+                    "World list"
+                ],
+                "verb": "recognized"
+            },
+            {
+                "after": [
+                    "individuals carbon footprints"
+                ],
+                "before": [
+                    "positive environmental impact",
+                    "Ant Forest",
+                    "worlds largest platform"
+                ],
+                "verb": "tracking"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "users"
+                ],
+                "before": [
+                    "Ant Forest"
+                ],
+                "verb": "allows"
+            },
+            {
+                "after": [
+                    "energy points",
+                    "Ant Forest actions",
+                    "real world"
+                ],
+                "before": [
+                    "users"
+                ],
+                "verb": "collect"
+            },
+            {
+                "after": [],
+                "before": [
+                    "energy points",
+                    "Ant Forest actions",
+                    "real world"
+                ],
+                "verb": "used"
+            },
+            {
+                "after": [
+                    "virtual and ultimately real trees",
+                    "230 million users",
+                    "Alipay"
+                ],
+                "before": [],
+                "verb": "grow"
+            },
+            {
+                "after": [
+                    "Ant Forest accounts"
+                ],
+                "before": [
+                    "virtual and ultimately real trees",
+                    "230 million users",
+                    "Alipay"
+                ],
+                "verb": "activating"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "environmental NGOs",
+                    "SEE Foundation and China Green Foundation"
+                ],
+                "before": [
+                    " Ant Financial and Ant Financial partners"
+                ],
+                "verb": "including"
+            },
+            {
+                "after": [],
+                "before": [
+                    "environmental NGOs",
+                    "SEE Foundation and China Green Foundation"
+                ],
+                "verb": "planted"
+            }
+        ],
+        [],
+        [],
+        []
+    ],
+    "Money": [
+        [
+            [
+                "a valuation",
+                "US$150 billion"
+            ]
+        ],
+        [
+            [
+                [
+                    "Ant Financial"
+                ],
+                "4",
+                [
+                    "Ant Financial"
+                ]
+            ]
+        ],
+        [
+            [
+                "valued",
+                "about $45 billion"
+            ]
+        ],
+        [
+            [
+                "a valuation",
+                "$60 billion"
+            ]
+        ],
+        [
+            [
+                "acquire",
+                "$880 million"
+            ]
+        ],
+        [
+            [
+                "acquire",
+                "$880 million"
+            ]
+        ],
+        [
+            [
+                [
+                    "9 June 2018"
+                ],
+                "US$14 billion",
+                []
+            ]
+        ],
+        [
+            [
+                "acquires",
+                "$700 million"
+            ]
+        ]
+    ]
+}
