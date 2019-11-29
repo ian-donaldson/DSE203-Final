@@ -1,0 +1,71 @@
+Company urls
+
+spider command lines: 
+scrapy crawl wiki_company_info -o ~/Documents/DSE/DSE203-documents/final_ying/info_box/main_company.json
+
+
+1. Main company 
+
+'https://en.wikipedia.org/wiki/Alibaba_Group'
+
+2. Competitor_Alibaba 
+
+'https://en.wikipedia.org/wiki/Amazon_(company)',
+'https://en.wikipedia.org/wiki/EBay',
+'https://en.wikipedia.org/wiki/Walmart'
+
+3. Acquisition_Alibaba
+
+'https://en.wikipedia.org/wiki/Alibaba_Pictures',
+'https://en.wikipedia.org/wiki/Vendio',
+'https://en.wikipedia.org/wiki/Amblin_Partners',
+'https://en.wikipedia.org/wiki/South_China_Morning_Post',
+'https://en.wikipedia.org/wiki/Ant_Financial'
+
+
+4. Acquisition_Amazon
+
+'https://en.wikipedia.org/wiki/Ring_Inc.',
+'https://en.wikipedia.org/wiki/Whole_Foods_Market',
+'https://en.wikipedia.org/wiki/Zappos'
+
+
+5. Acquisition_eBay
+
+'https://en.wikipedia.org/wiki/PayPal',
+'https://en.wikipedia.org/wiki/Craigslist',
+'https://en.wikipedia.org/wiki/Skype_Technologies'
+
+6. Acquisition_Walmart
+
+'https://en.wikipedia.org/wiki/Vudu',
+'https://en.wikipedia.org/wiki/Jet.com',
+'https://en.wikipedia.org/wiki/Shoes.com' (former: Shoebuy.com)
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

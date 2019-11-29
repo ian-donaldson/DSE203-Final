@@ -19,26 +19,26 @@
 17,Amazon,4431,Electronics and Appliance Stores
 18,Amazon,443,Electronics and Appliance Stores
 19,Amazon,44-45,Retail Trade
-20,Youtube,423720,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers
-21,Youtube,42372,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers
-22,Youtube,4237,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers"
-23,Youtube,423,"Merchant Wholesalers, Durable Goods"
-24,Youtube,42,Wholesale Trade
-25,Paramount Pictures,512191,Teleproduction and Other Postproduction Services
-26,Paramount Pictures,51219,Postproduction Services and Other Motion Picture and Video Industries
-27,Paramount Pictures,5121,Motion Picture and Video Industries
-28,Paramount Pictures,512,Motion Picture and Sound Recording Industries
-29,Paramount Pictures,51,Information
-30,Amblin,334513,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables"
-31,Amblin,33451,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"
-32,Amblin,3345,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"
-33,Amblin,334,Computer and Electronic Product Manufacturing
-34,Amblin,31-33,Manufacturing
-35,Vendio,442110,Furniture Stores
-36,Vendio,44211,Furniture Stores
-37,Vendio,4421,Furniture Stores
-38,Vendio,442,Furniture and Home Furnishings Stores
-39,Vendio,44-45,Retail Trade
+20,Paramount Pictures,512191,Teleproduction and Other Postproduction Services
+21,Paramount Pictures,51219,Postproduction Services and Other Motion Picture and Video Industries
+22,Paramount Pictures,5121,Motion Picture and Video Industries
+23,Paramount Pictures,512,Motion Picture and Sound Recording Industries
+24,Paramount Pictures,51,Information
+25,Amblin,334513,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables"
+26,Amblin,33451,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"
+27,Amblin,3345,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"
+28,Amblin,334,Computer and Electronic Product Manufacturing
+29,Amblin,31-33,Manufacturing
+30,Vendio,442110,Furniture Stores
+31,Vendio,44211,Furniture Stores
+32,Vendio,4421,Furniture Stores
+33,Vendio,442,Furniture and Home Furnishings Stores
+34,Vendio,44-45,Retail Trade
+35,Evening Post,512191,Teleproduction and Other Postproduction Services
+36,Evening Post,51219,Postproduction Services and Other Motion Picture and Video Industries
+37,Evening Post,5121,Motion Picture and Video Industries
+38,Evening Post,512,Motion Picture and Sound Recording Industries
+39,Evening Post,51,Information
 40,Vudu,518210,"Data Processing, Hosting, and Related Services"
 41,Vudu,51821,"Data Processing, Hosting, and Related Services"
 42,Vudu,5182,"Data Processing, Hosting, and Related Services"
@@ -49,11 +49,11 @@
 47,Jet.com,2379,Other Heavy and Civil Engineering Construction
 48,Jet.com,237,Heavy and Civil Engineering Construction
 49,Jet.com,23,Construction
-50,Kmart,445110,Supermarkets and Other Grocery (except Convenience) Stores
-51,Kmart,44511,Supermarkets and Other Grocery (except Convenience) Stores
-52,Kmart,4451,Grocery Stores
-53,Kmart,445,Food and Beverage Stores
-54,Kmart,44-45,Retail Trade
+50,Shoebuy.com,454110,Electronic Shopping and Mail-Order Houses
+51,Shoebuy.com,45411,Electronic Shopping and Mail-Order Houses
+52,Shoebuy.com,4541,Electronic Shopping and Mail-Order Houses
+53,Shoebuy.com,454,Nonstore Retailers
+54,Shoebuy.com,44-45,Retail Trade
 55,Zappos,448210,Shoe Stores
 56,Zappos,44821,Shoe Stores
 57,Zappos,4482,Shoe Stores
