@@ -1,0 +1,23 @@
+[
+    {
+        "Node1":{"Company":"Vudu"}, 
+        "Edge":{"Label":"is"}, 
+        "Node2":{"DESC":"an American content delivery and media technology company"}
+    },
+    {
+        "Node1":{"Company":"Vudu.com"}, 
+        "Edge":{"Label":"is"}, 
+        "Node2":{"Headquarter":"Sunnyvale, California"}
+    },
+    {
+        "Node1":{"Company":"Vudu"}, 
+        "Edge":{"Label":"is"}, 
+        "Node2":{"Avalable_via":"PlayStation 3, PlayStation 4, Xbox 360, Vudu app, Android TV, Apple TV"}
+    },
+    {
+        "Node1":{"Company":"Walmart"}, 
+        "Edge":{"Label":"Acquired"}, 
+        "Node2":{"Company":"Vudu","year":"2010","amount":"$100 million"}
+    }
+    
+ ]

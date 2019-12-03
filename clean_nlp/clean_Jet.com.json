@@ -1,0 +1,33 @@
+[
+    {
+        "Node1":{"Company":"Jet.com"}, 
+        "Edge":{"Label":"is"}, 
+        "Node2":{"Headquarter":"Hoboken, New Jersey"}
+    },
+    {
+        "Node1":{"Person":"Marc Lore"},
+        "Edge":{"Label":"Sold","year":"November,2010"},
+        "Node2":{"Company":"Diapers.com"}
+    },
+    {
+        "Node1":{"Person":"Marc Lore"},
+        "Edge":{"Label":"coFounded"}, 
+        "Node2":{"Company":"Jet.com"}
+    },
+    {
+        "Node1":{"Company":"Jet.com"},
+        "Edge":{"Label":"is"}, 
+        "Node2":{"LunchWebsite":"July,2015"}
+    },
+    {
+        "Node1":{"Company":"Amazon"},   
+        "Edge":{"Label":"Acquired","year":"November,2010"},
+        "Node2":{"Company":"Diapers.com"}
+    },
+    {
+        "Node1":{"Company":"Jet.com"},
+        "Edge":{"Label":"is"},
+        "Node2":{"MembershipFee":"$50 annual"}
+    }
+    
+ ]
