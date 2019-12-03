@@ -5,7 +5,7 @@
         "Node2":{"DESC":"an American content delivery and media technology company"}
     },
     {
-        "Node1":{"Company":"Shoes.com"}, 
+        "Node1":{"Company":"Vudu.com"}, 
         "Edge":{"Label":"is"}, 
         "Node2":{"Headquarter":"Sunnyvale, California"}
     },
