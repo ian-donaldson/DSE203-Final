@@ -1,0 +1,489 @@
+{
+    "Attributes": [
+        [
+            "1",
+            "is",
+            "report that Walmart pay US$ 70 million for the company"
+        ]
+    ],
+    "Method1": [
+        [],
+        [],
+        [
+            {
+                "after": [
+                    "as"
+                ],
+                "before": [
+                    "com"
+                ],
+                "prep": [
+                    "as Shoebuy"
+                ],
+                "verb": "know"
+            },
+            {
+                "after": [
+                    "as"
+                ],
+                "before": [
+                    "com"
+                ],
+                "prep": [
+                    "as Shoebuy"
+                ],
+                "verb": "know"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "an American footwear retailer"
+                ],
+                "before": [
+                    "com"
+                ],
+                "prep": [
+                    "by Walmart"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [
+                    "an American footwear retailer"
+                ],
+                "before": [
+                    "com"
+                ],
+                "prep": [
+                    "by Walmart"
+                ],
+                "verb": "is"
+            }
+        ],
+        [
+            {
+                "after": [],
+                "before": [
+                    "establish"
+                ],
+                "prep": [
+                    "in Boston",
+                    "during 1999"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [],
+                "before": [
+                    "establish"
+                ],
+                "prep": [
+                    "in Boston",
+                    "during 1999"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [
+                    "in",
+                    "during"
+                ],
+                "before": [
+                    "establish"
+                ],
+                "prep": [
+                    "in Boston",
+                    "during 1999"
+                ],
+                "verb": "establish"
+            },
+            {
+                "after": [
+                    "in",
+                    "during"
+                ],
+                "before": [
+                    "establish"
+                ],
+                "prep": [
+                    "in Boston",
+                    "during 1999"
+                ],
+                "verb": "establish"
+            }
+        ],
+        [
+            {
+                "after": [],
+                "before": [
+                    "acquire"
+                ],
+                "prep": [
+                    "  In 2006",
+                    "by IAC"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [],
+                "before": [
+                    "acquire"
+                ],
+                "prep": [
+                    "  In 2006",
+                    "by IAC"
+                ],
+                "verb": "is"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "the acquisition"
+                ],
+                "before": [
+                    "com"
+                ],
+                "prep": [
+                    "of Walmart",
+                    "of ShoeBuy",
+                    "from IAC"
+                ],
+                "verb": "complete"
+            },
+            {
+                "after": [
+                    "the acquisition"
+                ],
+                "before": [
+                    "com"
+                ],
+                "prep": [
+                    "of Walmart",
+                    "of ShoeBuy",
+                    "from IAC"
+                ],
+                "verb": "complete"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "report"
+                ],
+                "before": [
+                    "The website"
+                ],
+                "prep": [
+                    "that",
+                    "for the company"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [
+                    "report"
+                ],
+                "before": [
+                    "The website"
+                ],
+                "prep": [
+                    "that",
+                    "for the company"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [
+                    "US$ 70 million",
+                    "for"
+                ],
+                "before": [
+                    "report"
+                ],
+                "prep": [
+                    "that",
+                    "for the company"
+                ],
+                "verb": "pay"
+            },
+            {
+                "after": [
+                    "US$ 70 million",
+                    "for"
+                ],
+                "before": [
+                    "report"
+                ],
+                "prep": [
+                    "that",
+                    "for the company"
+                ],
+                "verb": "pay"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "products"
+                ],
+                "before": [
+                    "com"
+                ],
+                "prep": [
+                    "on Jet"
+                ],
+                "verb": "contain over one million"
+            },
+            {
+                "after": [
+                    "products"
+                ],
+                "before": [
+                    "com"
+                ],
+                "prep": [
+                    "on Jet"
+                ],
+                "verb": "contain over one million"
+            },
+            {
+                "after": [
+                    "purchase"
+                ],
+                "before": [
+                    "which"
+                ],
+                "prep": [
+                    "on Jet"
+                ],
+                "verb": "can"
+            },
+            {
+                "after": [
+                    "purchase"
+                ],
+                "before": [
+                    "which"
+                ],
+                "prep": [
+                    "on Jet"
+                ],
+                "verb": "can"
+            },
+            {
+                "after": [
+                    "purchase"
+                ],
+                "before": [
+                    "many"
+                ],
+                "prep": [
+                    "on Jet"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [
+                    "purchase"
+                ],
+                "before": [
+                    "many"
+                ],
+                "prep": [
+                    "on Jet"
+                ],
+                "verb": "is"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "re - brand"
+                ],
+                "before": [
+                    "[3 ] ShoeBuy"
+                ],
+                "prep": [
+                    "as Shoes"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [
+                    "re - brand"
+                ],
+                "before": [
+                    "[3 ] ShoeBuy"
+                ],
+                "prep": [
+                    "as Shoes"
+                ],
+                "verb": "is"
+            }
+        ],
+        [
+            {
+                "after": [],
+                "before": [
+                    "com"
+                ],
+                "prep": [
+                    "after"
+                ],
+                "verb": "closed"
+            },
+            {
+                "after": [],
+                "before": [
+                    "com"
+                ],
+                "prep": [
+                    "after"
+                ],
+                "verb": "closed"
+            }
+        ],
+        []
+    ],
+    "Method2": [
+        [],
+        [],
+        [
+            {
+                "after": [
+                    "Shoebuy"
+                ],
+                "before": [
+                    "com"
+                ],
+                "verb": "know"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "American footwear retailer",
+                    "Walmart"
+                ],
+                "before": [
+                    "com"
+                ],
+                "verb": "is"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "Boston"
+                ],
+                "before": [
+                    " The website"
+                ],
+                "verb": "establish"
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "after": [
+                    "acquisition",
+                    "ShoeBuy",
+                    "IAC"
+                ],
+                "before": [
+                    "com",
+                    "subsidiary",
+                    "Walmart"
+                ],
+                "verb": "complete"
+            }
+        ],
+        [
+            {
+                "after": [
+                    "report",
+                    "Walmart"
+                ],
+                "before": [
+                    "website"
+                ],
+                "verb": "is"
+            },
+            {
+                "after": [
+                    "company"
+                ],
+                "before": [
+                    "report",
+                    "Walmart"
+                ],
+                "verb": "pay"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "over one million products"
+                ],
+                "before": [
+                    "com"
+                ],
+                "verb": "contain"
+            },
+            {
+                "after": [
+                    "Jet"
+                ],
+                "before": [
+                    "over one million products"
+                ],
+                "verb": "is"
+            }
+        ],
+        [],
+        [
+            {
+                "after": [
+                    "re  brand",
+                    "Shoes"
+                ],
+                "before": [
+                    "3  ShoeBuy"
+                ],
+                "verb": "is"
+            }
+        ],
+        [
+            {
+                "after": [],
+                "before": [
+                    "com",
+                    "acquisition"
+                ],
+                "verb": "closed"
+            }
+        ],
+        []
+    ],
+    "Money": [
+        [
+            [
+                [
+                    "Walmart"
+                ],
+                "US$ 70 million",
+                [
+                    "report",
+                    "Walmart"
+                ]
+            ]
+        ]
+    ]
+}

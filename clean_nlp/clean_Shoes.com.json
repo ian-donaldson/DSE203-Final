@@ -1,0 +1,13 @@
+[
+    {
+        "Node1":{"Company":"Shoes.com"}, 
+        "Edge":{"Label":"is"}, 
+        "Node2":{"Previous":"Shoebuy.com"}
+    },
+    {
+        "Node1":{"Company":"Shoes.com"}, 
+        "Edge":{"Label":"is"}, 
+        "Node2":{"Headquarter":"Boston, Massachusetts"}
+    } 
+    
+ ]

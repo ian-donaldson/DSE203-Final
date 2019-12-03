@@ -1,0 +1,23 @@
+[
+    {
+        "Node1":{"Company":"Walmart"}, 
+        "Edge":{"Label":"is"}, 
+        "Node2":{"DESC":"an American multinational retail corporation, world's largest company by revenue" }
+    },
+    {
+        "Node1":{"Company":"Walmart"}, 
+        "Edge":{"Label":"is"}, 
+        "Node2":{"Headquarter":"Bentonville, Arkansas"}
+    },
+    {
+        "Node1":{"Company":"Walmart"}, 
+        "Edge":{"Label":"is"}, 
+        "Node2":{"Number_of_Stores":"6080"}
+    },
+    {
+        "Node1":{"Company":"Walmart"}, 
+        "Edge":{"Label":"Acquired"}, 
+        "Node2":{"Company":"Moosejaw","year":"2017","amount":"$51 million"}
+    }
+    
+ ]
