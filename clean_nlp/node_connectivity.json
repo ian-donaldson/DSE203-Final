@@ -1,0 +1,62 @@
+[
+    {
+        "Node1":{"Person":"Jack Ma"},
+        "Edge":{"Label":"works for", "title": "former executive chariman"}, 
+        "Node2":{"Company":"Alibaba"}
+    },
+    {
+        "Node1":{"Person":"Joseph Tsai"},
+        "Edge":{"Label":"works for", "title": "executive vice chariman"},
+        "Node2":{"Company":"Alibaba"}
+    },
+    {
+        "Node1":{"Person":"Michael Evans"},
+        "Edge":{"Label":"works for", "title": "president"},
+        "Node2":{"Company":"Alibaba"}
+    },
+    {
+        "Node1":{"Company": "Alibaba"},
+        "Edge":{"Label":"launched"}, 
+        "Node2":{"Company": "Taobao Marketplace"}
+    },
+    {
+        "Node1":{"Company":"Alibaba"},
+        "Edge":{"Label":"promote", "type":"Tecent's messaging"}, 
+        "Node2":{"Object":"application"}
+    },
+    {
+        "Node1":{"Company":"Amblin Partners"},   
+        "Edge":{"Label":"signed","type":"music publishing"},
+        "Node2":{"Object":"deal"}
+    },
+    {
+        "Node1":{"Company":"Amblin Partners"},
+        "Edge":{"Label":"produced"},
+        "Node2":{"Movie":"The Girl on the Train"}
+    },
+    {
+        "Node1":{"Company":"Ant Financial"},
+        "Edge":{"Label":"bought"},
+        "Node2":{"Company":"EyeVerify Inc"}
+    },
+    {
+        "Node1":{"Company":"Ant Financial"},
+        "Edge":{"Label":"announced"},
+        "Node2":{"Object":"deal"}
+    },
+    {
+        "Node1":{"Company":"Ant Financial"},
+        "Edge":{"Label":"operates"},
+        "Node2":{"Company":"Huabei"}
+    },
+    {
+        "Node1":{"Company":"Ant Financial"},
+        "Edge":{"Label":"announced"},
+        "Node2":{"Company":"Ant Fortune"}
+    },
+    {
+        "Node1":{"Group":"South China Morning Post Group"},
+        "Edge":{"Label":"publishes", "type":"newpaper"},
+        "Node2":{"Company":"South China Morning Post"}
+    }
+ ]
