@@ -17,9 +17,24 @@ from urllib.parse import urlparse
 class WikiSpider(scrapy.Spider):
     name = 'wiki_company_info'
 
-    start_urls = ['https://en.wikipedia.org/wiki/Kmart',
+    start_urls = ['https://en.wikipedia.org/wiki/Alibaba_Group',
+'https://en.wikipedia.org/wiki/Amazon_(company)',
+'https://en.wikipedia.org/wiki/EBay',
+'https://en.wikipedia.org/wiki/Walmart',
+'https://en.wikipedia.org/wiki/Alibaba_Pictures',
+'https://en.wikipedia.org/wiki/Vendio',
+'https://en.wikipedia.org/wiki/Amblin_Partners',
+'https://en.wikipedia.org/wiki/South_China_Morning_Post',
+'https://en.wikipedia.org/wiki/Ant_Financial',
+'https://en.wikipedia.org/wiki/Ring_Inc.',
+'https://en.wikipedia.org/wiki/Whole_Foods_Market',
+'https://en.wikipedia.org/wiki/Zappos',
+'https://en.wikipedia.org/wiki/PayPal',
+'https://en.wikipedia.org/wiki/Craigslist',
+'https://en.wikipedia.org/wiki/Skype_Technologies',
 'https://en.wikipedia.org/wiki/Vudu',
-'https://en.wikipedia.org/wiki/Jet.com']
+'https://en.wikipedia.org/wiki/Jet.com',
+'https://en.wikipedia.org/wiki/Shoes.com']
 
     def parse(self, response):
         parsed_uri = urlparse(response.url)
