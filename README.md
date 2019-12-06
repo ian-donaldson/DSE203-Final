@@ -21,7 +21,7 @@
 - powerpoint is in root repo structure (dse203_final_presentation.pdf) 
 
 Contributors:
-    Faezeah G
-    Jimmy Q
-    Kevin L
-    Ying C
+    - Faezeah G
+    - Jimmy Q
+    - Kevin L
+    - Ying C
