@@ -20,6 +20,6 @@
 
 Contributors:
     Faezeahghazi
-    Jimmmy
+    Jimmy
     Kevin
     Ying
