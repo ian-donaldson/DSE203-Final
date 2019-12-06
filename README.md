@@ -18,10 +18,10 @@
 3. Run dse203_create_graph_updated.ipynb to populate the graph DB
 
 - database file is in root repo structure (databases.zip)
-
+- powerpoint is in root repo structure (dse203_final_presentation.pdf) 
 
 Contributors:
-    Faezeahghazi
-    Jimmy
-    Kevin
-    Ying
+    Faezeah G
+    Jimmy Q
+    Kevin L
+    Ying C
