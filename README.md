@@ -17,6 +17,8 @@
 2. Run neo4j server that jupyter notebook can connect to. 
 3. Run dse203_create_graph_updated.ipynb to populate the graph DB
 
+- database file is in root repo structure (databases.zip)
+
 
 Contributors:
     Faezeahghazi
