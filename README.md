@@ -13,7 +13,7 @@
 
 -The workflow is:
 1. Run the files above. They will create csv, txt, and json files. You can run scrapy with 
-```scrapy crawl wiki_company_info -o all.json``` . Then move that all.json to the info_box folder and rename it all_info_box.json
+```scrapy crawl wiki_company_info -o all.json``` . Then move that all.json to the info_box folder and rename it all_info_box.json . Also some manual data cleaning was done from the scrapy dump and those are found in info_box folder (leave those as is)
 2. Run neo4j server that jupyter notebook can connect to. 
 3. Run dse203_create_graph_updated.ipynb to populate the graph DB
 
